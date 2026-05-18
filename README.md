@@ -1,2 +1,2 @@
 # Beamer_template_NUST
-This template is designed for use in official, research-related presentations by NUST PG students. Currently, it consists only of a basic structure, but the layout and other parameters can be edited as per the requirements. It can be used as a starting point from where it can be developed further.
+This template can be used in research-related presentations by NUST PG students. Currently, it consists only of a basic structure, but the layout and other parameters can be edited. It can be used as a starting point from where a complete template can be developed.
